@@ -1,3 +1,5 @@
+Tested oneplus2 google chrome and the project : https://huntana.github.io/mediaLab4/
+
 # mediaLab4
 
 This lab aims to build your first WebRTC app.
